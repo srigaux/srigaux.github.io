@@ -26,7 +26,7 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-1945556b7be8c6332fa7.js"
+    "url": "webpack-runtime-1ce8b42dd47dcd580cf5.js"
   },
   {
     "url": "app-e63ef76001d0429eaa39.js"
@@ -36,36 +36,36 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "658a74a08354139900eb2a08af06ce19"
+    "revision": "94ebc8ae39509f960ea631f8d8b13853"
   },
   {
-    "url": "styles.591ba03c740366751c73.css"
+    "url": "styles.eb017344524d0969f50f.css"
   },
   {
-    "url": "google-fonts/s/montserrat/v13/JTUQjIg1_i6t8kCHKm45_QpRyS7m.woff2",
+    "url": "google-fonts/s/montserrat/v14/JTUQjIg1_i6t8kCHKm45_QpRyS7m.woff2",
     "revision": "191cc9f50f3b76b9617cb383f19acb7d"
   },
   {
-    "url": "google-fonts/s/montserrat/v13/JTURjIg1_i6t8kCHKm45_aZA3gnD_g.woff2",
+    "url": "google-fonts/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_aZA3gnD_g.woff2",
     "revision": "85d5ef9db7f2dc6979172a4a3b2c57cb"
   },
   {
-    "url": "google-fonts/s/montserrat/v13/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2",
+    "url": "google-fonts/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2",
     "revision": "7c3daf12b706645b5d3710f863a4da04"
   },
   {
-    "url": "google-fonts/s/montserrat/v13/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2",
+    "url": "google-fonts/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2",
     "revision": "39d93cf678c740f9f6b2b1cfde34bee3"
   },
   {
     "url": "styles-2ad14fde9cf0fc1eda0a.js"
   },
   {
-    "url": "component---src-pages-404-js-b0dd34b30fd080419378.js"
+    "url": "component---src-pages-404-js-d0ad2a631ded4c5b694e.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "351e75984a309ec7a90de2239d472324"
+    "revision": "7a0c47a08181af40d449da3e0a201656"
   },
   {
     "url": "manifest.webmanifest",
